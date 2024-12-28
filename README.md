@@ -55,7 +55,11 @@ Bu projeyi derlemek ve çalıştırmak için C derleyicisine sahip bir ortam kul
 
 Projenin dosya yapısı şu şekildedir:
 
-/HastaneYonetimSistemi | |-- hastaneYonetimSistemi.c # Ana kaynak kodu dosyası |-- hastalar.txt # Hasta bilgilerini depolayan dosya |-- yedekKayit.txt # Yedek hasta kayıt dosyası
+/HastaneYonetimSistemi 
+   | 
+   |-- hastaneYonetimSistemi.c # Ana kaynak kodu dosyası 
+   |-- hastalar.txt # Hasta bilgilerini depolayan dosya 
+   |-- yedekKayit.txt # Yedek hasta kayıt dosyası
 
 
 ### 3. Veritabanı
